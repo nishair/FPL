@@ -1,0 +1,5 @@
+from mathematicians import simple_get
+raw_html = simple_get('https://fantasy.premierleague.com/a/statistics/total_points/te_1')
+len(raw_html)
+
+
